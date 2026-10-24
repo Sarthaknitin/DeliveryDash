@@ -1,0 +1,1 @@
+Delivery Dash with maple tree loading fixed. Keep the folder structure intact. Run from a local web server (not file://), because GLTF/GLB assets are fetched asynchronously. Maple tree files are in assets/maple_tree/.
